@@ -1,4 +1,4 @@
-# helmet-and-plate-detection
+# Helmet and Number Plate Detection using YOLOv3 with OpenCV and Python
 
 This project demonstrates the use of YOLOv3, a state-of-the-art object detection model, in conjunction with OpenCV and Python to detect helmets and number plates within images or videos.
 
