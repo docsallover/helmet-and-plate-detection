@@ -43,6 +43,10 @@ The system requires the following dependencies:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+<video width="640" height="480" controls>
+  <source src="https://docsallover.com/docsallover/media/videos/Result-Helmet-and-Number-Plate-Detection.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Visit and Follow
 For more details and tutorials, visit the website: [DocsAllOver](https://docsallover.com/).
